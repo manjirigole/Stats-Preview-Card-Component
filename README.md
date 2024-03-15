@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grids-and-flexboxes-toz35F5P_O
+- Live Site URL: https://manjirigole.github.io/Stats-Preview-Card-Component/
 
 ## My process
 
@@ -43,5 +43,5 @@ Users should be able to:
 I would like to work on the Mobile Preview since i've only done the Web preview of this project.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/manjirigole
 
